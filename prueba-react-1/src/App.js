@@ -18,8 +18,7 @@ function App() {
       </header>
     
       <main className="px-3">
-        <h1>Prueba React I</h1>
-        <p>Consumiendo una Api con React</p>
+        <h1>Breweries in Town</h1>
         <MiApi></MiApi>
         <p className="lead">
           <a href="#" className="btn btn-lg btn-light fw-bold border-white bg-white">Learn more</a>
